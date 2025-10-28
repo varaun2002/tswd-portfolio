@@ -1,4 +1,4 @@
-| [Home](https://varaun2002.github.io/tswd-portfolio/) | [Data Viz Examples](https://github.com/varaun2002/tswd-portfolio/blob/main/dataviz-examples.md) | [Critique by Design](https://github.com/varaun2002/tswd-portfolio/blob/main/critique-by-design.md) | [Final Project I](https://github.com/varaun2002/tswd-portfolio/blob/main/final-project-part-one.md) | [Final Project II]([final-project-part-two](https://github.com/varaun2002/tswd-portfolio/blob/main/final-project-part-two.md)) | [Final Project III]([final-project-part-three](https://github.com/varaun2002/tswd-portfolio/blob/main/final-project-part-three.md)) |
+| [home page](https://varaun2002.github.io/tswd-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Varaun Gandhi — Telling Stories with Data Portfolio
 
