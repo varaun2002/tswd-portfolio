@@ -1,112 +1,59 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [Home](https://varaun2002.github.io/tswd-portfolio/) | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Varaun Gandhi — Telling Stories with Data Portfolio
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
-
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
-
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
-# Portfolio
-
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
-
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+Welcome to my portfolio for **Telling Stories with Data (TSWD)** at **Carnegie Mellon University**.  
+Here, you’ll find my coursework, visual storytelling projects, and data visualization experiments.
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
-### Changing text
+## 🧠 About Me
 
-You can change text, like this: 
+Hi! I’m **Varaun Gandhi (he/him)**, a graduate student at **Carnegie Mellon University**, pursuing an **M.S. in Information Systems Management (AI & Data Science track)** — graduating **December 2025**.  
 
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
+I’m passionate about **data-driven storytelling**, **machine learning**, and **cloud-based analytics**.  
+Previously, I’ve interned at **BorgWarner**, where I developed an **AI-powered supplier risk monitoring system** using **Azure cloud services**, and at **Shiga Corp**, where I built interactive **Power BI dashboards** and anomaly detection models for solar telemetry data.  
 
-### Creating tables
+When I’m not coding, I love exploring creative visualizations, experimenting with open datasets, and translating data into clear, impactful narratives that inform and inspire action.
 
-You can build tables like this: 
+---
 
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
+## 🎯 What I Hope to Learn
 
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
+Through *Telling Stories with Data*, I aim to strengthen my ability to communicate insights through **visual narrative and design thinking** — blending quantitative analysis with qualitative storytelling.  
 
-You can use different headings, like this: 
+Specifically, I hope to:
+- Learn to craft effective visual stories for both technical and non-technical audiences  
+- Explore best practices for color, hierarchy, and accessibility in visual design  
+- Build interactive visualizations using tools like **Tableau, Power BI, and D3.js**  
+- Apply data storytelling to real-world use cases in **AI ethics, sustainability, and business intelligence**
 
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
+After graduation, I plan to work in **data science or analytics engineering**, helping organizations make complex data intuitive and actionable.
 
-### Adding images
+---
 
-Here's an example of how to add an image to my portfolio.  
+## 💼 Portfolio
 
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
+This section will showcase my projects and assignments from the course.
 
-Alternately, you can set the size of the image using just a bit of HTML: 
+### 📊 Assignment 1: [Visualizing Government Debt](visualizing-government-debt)
+Analysis and redesign of a global debt visualization — focusing on readability and context.
 
-<img src="funny-dog-unsplash.jpg" width="200"/>
+### 🧩 Assignment 3 & 4: [Critique by Design](critique-by-design)
+Critically evaluating and improving an existing visualization using storytelling principles.
 
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
+### 🚀 Final Project
+A full storytelling piece combining data analysis, visualization, and narrative insight.
+- [Part I](final-project-part-one) — Proposal & Concept  
+- [Part II](final-project-part-two) — Prototype & Feedback  
+- [Part III](final-project-part-three) — Final Story
 
-### Setting up a separate page
+---
 
-So here's the code you'll need to add to your own site to create a second page. 
+## 🌐 Website
 
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
+- **Portfolio URL:** [https://varaun2002.github.io/tswd-portfolio/](https://varaun2002.github.io/tswd-portfolio/)  
+- **GitHub Repository:** [https://github.com/varaun2002/tswd-portfolio](https://github.com/varaun2002/tswd-portfolio)
 
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+---
 
