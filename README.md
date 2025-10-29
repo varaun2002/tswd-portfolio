@@ -9,7 +9,7 @@ Here, you’ll find my coursework, storytelling projects, and data visualization
 
 ## About Me
 
-Hi! I’m **Varaun Gandhi (he/him)**, a graduate student at **Carnegie Mellon University**, pursuing an **M.S. in Information Systems Management ** — graduating **December 2025**.  
+Hi! I’m **Varaun Gandhi (he/him)**, a graduate student at **Carnegie Mellon University**, pursuing an **M.S. in Information Systems Management** — graduating **December 2025**.  
 
 I’m passionate about **AI** and **Machine Learning**.
 Previously, I’ve interned at **BorgWarner**, where I developed an **AI-powered supplier risk monitoring system** using **Azure cloud services**, and at **Shiga Corp**, where I built interactive **Power BI dashboards** and anomaly detection models for solar telemetry data.  
