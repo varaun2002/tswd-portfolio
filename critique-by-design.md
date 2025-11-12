@@ -1,29 +1,38 @@
 | [home page](https://varaun2002.github.io/tswd-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Redesigning a UK Unemployment Rate Visualization
+# Redesigning “Which is the Best Performing Marvel Movie?”
 
-For this project, I selected a MakeoverMonday dataset focusing on the United Kingdom’s unemployment rate over time. I chose this visualization because unemployment is a key indicator of economic health and public well-being. The original design presents quarterly unemployment rates in a simple line chart, but I saw an opportunity to improve clarity, context, and storytelling by incorporating historical trends and adding visual context around major economic events.
+For this assignment, I selected a data visualization from MakeoverMonday that analyzes the financial performance of Marvel movies. The original visualization aimed to answer a question that appeals to both movie fans and business-minded viewers: “Which is the best performing Marvel movie?”
 
-My goal for the redesign is to help viewers better understand how unemployment has shifted historically and recently, and what economic periods or shocks may have influenced these changes. This redesign also aims to provide better annotation, color clarity, and interactive filtering to highlight key insights.
+The original graphic presents each Marvel movie as a point on a scatterplot, plotting release year against % of budget recovered, with colors representing different Marvel sub-franchises. While visually striking and data-rich, the presentation felt overwhelming due to cluttered labeling, a large color palette, and difficulty extracting key takeaways quickly.
+
+This redesign challenge allowed me to apply Stephen Few’s Data Visualization Effectiveness Profile, reflect on clarity vs aesthetics, sketch alternative layouts, gather feedback, and build an improved version in Tableau that prioritizes interpretability and storytelling.
 
 ## Step one: the visualization
 
-Source: MakeoverMonday – UK unemployment rate (Office for National Statistics)
+Source: Which is the Best Performing Marvel Movie? - Created by InformationIsBeautiful as part of MakeoverMonday
+Data: the-numbers.com & rottentomatoes.com (Mar 2025 update)
 
-[Link](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms)
+[Link](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)
 
-Screenshot - <img width="1038" height="476" alt="Screenshot 2025-11-11 at 8 14 04 PM" src="https://github.com/user-attachments/assets/7f2582de-62e1-4ea8-b6e5-3e7be2aeb0a5" />
+Screenshot - <img width="1438" height="538" alt="Screenshot 2025-11-11 at 9 36 07 PM" src="https://github.com/user-attachments/assets/ad00f17b-3a53-462e-a41c-bf63fc51ed61" />
+
 
 Description:
-The original visualization is a line chart showing seasonally adjusted unemployment rates for people aged 16 and over.
-Why I selected this visualization:
-- It covers a globally relevant topic in economics.
-- It uses a trustworthy public data source (ONS).
-- The chart is functional but lacks historical perspective and storytelling.
-- There is opportunity to enhance clarity, add context, and improve reader understanding
+I chose this visualization because:
+- The topic is widely relatable, making insights meaningful to a broad audience.
+- The original scatterplot has strong intent but tries to communicate too much at once, creating visual overload.
+- There is an opportunity to simplify the interface, improve labeling and data grouping, and show clear rankings.
+- User-focused redesign helps demonstrate impact — from “information overload” to “insight first.”
+
+Screen capture of original visualization included above.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+
+1. The use of many franchise colors and direct labels for nearly every movie creates visual clutter. With so many competing elements, viewers must work harder to understand the chart, slowing comprehension and reducing engagement.
+2. Clarity suffers from overlapping labels and tightly clustered points. Many movie names sit on top of each other, especially around the mid-range budget recovery line. This makes it difficult to clearly identify individual films without hovering or zooming.
+3. The chart format does not fully support the question posed. The title asks which movie performs best, yet a scatterplot makes ranking difficult to see at a glance. Users have to visually search for the highest-performing films instead of being guided to them.
+4. The tone feels analytical rather than audience-friendly. Although Marvel content appeals to a broad, entertainment-oriented audience, the visualization feels like a finance dashboard. A simpler design with fewer colors, selective labeling, and more obvious highlights would help make the insights more accessible.
 
 ## Step three: Sketch a solution
 
