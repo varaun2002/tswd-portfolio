@@ -1,15 +1,30 @@
 | [home page](https://varaun2002.github.io/tswd-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Redesigning a UK Unemployment Rate Visualization
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+For this project, I selected a MakeoverMonday dataset focusing on the United Kingdom’s unemployment rate over time. I chose this visualization because unemployment is a key indicator of economic health and public well-being. The original design presents quarterly unemployment rates in a simple line chart, but I saw an opportunity to improve clarity, context, and storytelling by incorporating historical trends and adding visual context around major economic events.
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+My goal for the redesign is to help viewers better understand how unemployment has shifted historically and recently, and what economic periods or shocks may have influenced these changes. This redesign also aims to provide better annotation, color clarity, and interactive filtering to highlight key insights.
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+Source: MakeoverMonday – UK unemployment rate (Office for National Statistics)
+Link - [https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms]([url](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms))
+
+Screenshot - <img width="1038" height="476" alt="Screenshot 2025-11-11 at 8 14 04 PM" src="https://github.com/user-attachments/assets/7f2582de-62e1-4ea8-b6e5-3e7be2aeb0a5" />
+
+Description:
+The original visualization is a line chart showing seasonally adjusted unemployment rates for people aged 16 and over. It uses a single blue line chart to display quarterly data from 2020 to 2025.
+
+Why I selected this visualization:
+
+It covers a globally relevant topic in economics.
+
+It uses a trustworthy public data source (ONS).
+
+The chart is functional but lacks historical perspective and storytelling.
+
+There is opportunity to enhance clarity, add context, and improve reader understanding
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
