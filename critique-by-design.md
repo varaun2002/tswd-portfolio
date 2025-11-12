@@ -58,21 +58,13 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-| What do you think this is? | A rough sketch of a dashboard comparing Marvel movies by performance. | A wireframe redesign for visualizing Marvel movie ROI and critic score. |
-| Can you describe to me what this is telling you? | It ranks Marvel movies by how much money they made relative to budget and shows a comparison with critic scores. | It shows the top Marvel films by ROI and includes a scatterplot to explore ROI vs critic score relationships. |
-| Is there anything you find surprising or confusing? | The abbreviations like IM2 are not super clear and the scatter labels are hard to interpret. | The scatterplot needs clearer axis labels and the breakeven dotted line could use a label. |
+| What do you think this is? | A dashboard comparing Marvel movies by performance. | A dashboard comparing Marvel movies by performance. |
+| Can you describe to me what this is telling you? | It ranks Marvel movies by how much money they made relative to budget and shows a comparison with critic scores. | It shows the top Marvel films by ROI. |
+| Is there anything you find surprising or confusing? | The abbreviations like IM2 are not super clear and the scatter labels are hard to interpret. | It is unclear what the dotted line represents. |
 | Who do you think is the intended audience for this? | Marvel fans or general viewers curious about movie success. | Students or analysts exploring movie performance data, or entertainment industry audiences. |
 | Is there anything you would change or do differently? | Add clearer movie names and maybe use icons or colors to help differentiate. | Add audience score as a filter, refine titles/labels, and adjust spacing for readability. |
-
-
-Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
 ## Step five: build the solution
 
