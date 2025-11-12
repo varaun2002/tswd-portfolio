@@ -70,9 +70,9 @@ Results:
 
 For my final redesign, I built an interactive Tableau dashboard to answer one clear question: Which Marvel movies delivered the best financial returns, and how does that compare to their critics' scores?
 
-<div class='tableauPlaceholder' id='viz1762927420611' style='position: relative'><noscript><a href='#'><img alt='Marvel - Best Performers ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17629246667070&#47;Marvel-BestPerformers&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17629246667070&#47;Marvel-BestPerformers' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17629246667070&#47;Marvel-BestPerformers&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<div class='tableauPlaceholder' id='viz1762984542101' style='position: relative'><noscript><a href='#'><img alt='Marvel - Best Performers ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelBestPerformers&#47;Marvel-BestPerformers&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MarvelBestPerformers&#47;Marvel-BestPerformers' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MarvelBestPerformers&#47;Marvel-BestPerformers&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
-  var divElement = document.getElementById('viz1762927420611');                    
+  var divElement = document.getElementById('viz1762984542101');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
   if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
   else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} 
@@ -82,13 +82,14 @@ For my final redesign, I built an interactive Tableau dashboard to answer one cl
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-I replaced the original Makeover Monday scatterplot with a ranked horizontal bar chart showing return on investment (% of budget recovered). This makes the top-performing films immediately visible instead of forcing viewers to scan dozens of labels. I also added a Top-N parameter and a table-calculation ranking method so users can control how many films they see - a key improvement over the original.
+
+
+
+I replaced the original Makeover Monday scatterplot with a ranked horizontal bar chart showing return on investment (% of budget recovered). This makes the top-performing films immediately visible instead of forcing viewers to scan dozens of labels. I also added a Top-N per category parameter - a key improvement over the original.
 
 Below the bar chart, I included a scatterplot comparing ROI to critics' ratings, with average reference lines to help users spot trends. Filters for year and franchise, plus click-to-highlight interaction, let viewers explore without clutter.
 
 My design choices focused on clarity: minimal labels, color only for franchise category, and a compact control panel. The dashboard now feels like a clean movie-performance tool rather than an overwhelming chart.
-
-This project strengthened both my design judgment and my Tableau skills, especially with parameters, table calculations, and coordinated filters. The final result surfaces insights quickly while still supporting deeper exploration.
 
 ## References
 
@@ -96,5 +97,5 @@ This project strengthened both my design judgment and my Tableau skills, especia
 [Visualization](https://informationisbeautiful.net/visualizations/which-is-the-best-performing-marvel-movie/)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
+Parts of the written content were refined with the help of AI language tools to improve clarity, tone, and readability.
