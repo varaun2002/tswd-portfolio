@@ -9,6 +9,7 @@ My goal for the redesign is to help viewers better understand how unemployment h
 ## Step one: the visualization
 
 Source: MakeoverMonday – UK unemployment rate (Office for National Statistics)
+
 Link - [https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms]([url](https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/timeseries/mgsx/lms))
 
 Screenshot - <img width="1038" height="476" alt="Screenshot 2025-11-11 at 8 14 04 PM" src="https://github.com/user-attachments/assets/7f2582de-62e1-4ea8-b6e5-3e7be2aeb0a5" />
