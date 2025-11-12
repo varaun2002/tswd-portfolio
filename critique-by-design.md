@@ -21,7 +21,7 @@ Screenshot - <img width="1438" height="538" alt="Screenshot 2025-11-11 at 9 36 0
 Description:
 I chose this visualization because:
 - The topic is widely relatable, making insights meaningful to a broad audience.
-- The original scatterplot has strong intent but tries to communicate too much at once, creating visual overload.![PHOTO-2025-11-11-21-53-34](https://github.com/user-attachments/assets/aa665ad3-cd94-418e-b9ca-531f5183333c)
+- The original scatterplot has strong intent but tries to communicate too much at once, creating visual overload.
 
 - There is an opportunity to simplify the interface, improve labeling and data grouping, and show clear rankings.
 - User-focused redesign helps demonstrate impact — from “information overload” to “insight first.”
@@ -63,11 +63,11 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-| **What do you think this is?** | A rough sketch of a dashboard comparing Marvel movies by performance. | A wireframe redesign for visualizing Marvel movie ROI and critic score. |
-| **Can you describe to me what this is telling you?** | It ranks Marvel movies by how much money they made relative to budget and shows a comparison with critic scores. | It shows the top Marvel films by ROI and includes a scatterplot to explore ROI vs critic score relationships. |
-| **Is there anything you find surprising or confusing?** | The abbreviations like IM2 are not super clear and the scatter labels are hard to interpret. | The scatterplot needs clearer axis labels and the breakeven dotted line could use a label. |
-| **Who do you think is the intended audience for this?** | Marvel fans or general viewers curious about movie success. | Students or analysts exploring movie performance data, or entertainment industry audiences. |
-| **Is there anything you would change or do differently?** | Add clearer movie names and maybe use icons or colors to help differentiate. | Add audience score as a filter, refine titles/labels, and adjust spacing for readability. |
+| What do you think this is? | A rough sketch of a dashboard comparing Marvel movies by performance. | A wireframe redesign for visualizing Marvel movie ROI and critic score. |
+| Can you describe to me what this is telling you? | It ranks Marvel movies by how much money they made relative to budget and shows a comparison with critic scores. | It shows the top Marvel films by ROI and includes a scatterplot to explore ROI vs critic score relationships. |
+| Is there anything you find surprising or confusing? | The abbreviations like IM2 are not super clear and the scatter labels are hard to interpret. | The scatterplot needs clearer axis labels and the breakeven dotted line could use a label. |
+| Who do you think is the intended audience for this? | Marvel fans or general viewers curious about movie success. | Students or analysts exploring movie performance data, or entertainment industry audiences. |
+| Is there anything you would change or do differently? | Add clearer movie names and maybe use icons or colors to help differentiate. | Add audience score as a filter, refine titles/labels, and adjust spacing for readability. |
 
 
 Synthesis: 
