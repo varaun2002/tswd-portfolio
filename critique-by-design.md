@@ -15,17 +15,12 @@ Source: MakeoverMonday – UK unemployment rate (Office for National Statistics)
 Screenshot - <img width="1038" height="476" alt="Screenshot 2025-11-11 at 8 14 04 PM" src="https://github.com/user-attachments/assets/7f2582de-62e1-4ea8-b6e5-3e7be2aeb0a5" />
 
 Description:
-The original visualization is a line chart showing seasonally adjusted unemployment rates for people aged 16 and over. It uses a single blue line chart to display quarterly data from 2020 to 2025.
-
+The original visualization is a line chart showing seasonally adjusted unemployment rates for people aged 16 and over.
 Why I selected this visualization:
-
-It covers a globally relevant topic in economics.
-
-It uses a trustworthy public data source (ONS).
-
-The chart is functional but lacks historical perspective and storytelling.
-
-There is opportunity to enhance clarity, add context, and improve reader understanding
+- It covers a globally relevant topic in economics.
+- It uses a trustworthy public data source (ONS).
+- The chart is functional but lacks historical perspective and storytelling.
+- There is opportunity to enhance clarity, add context, and improve reader understanding
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
