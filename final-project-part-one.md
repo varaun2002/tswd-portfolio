@@ -1,34 +1,84 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+Air travel is one of the clearest indicators of global mobility, economic health, and resilience in the face of crises. This project explores U.S. domestic and international flight trends from 2002–2025, focusing on how passenger volumes and flight counts evolved across major events such as the post-9/11 recovery, the 2008 financial crisis, the COVID-19 pandemic, and the rebound in the 2020s.
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+The goal is to tell a story about how external shocks reshape air travel patterns and how recovery trajectories differ between domestic and international markets. By visualizing long-term trends, seasonal cycles, and sudden disruptions, the project will highlight both the fragility and resilience of the aviation industry. Ultimately, the project aims to help audiences understand the broader narrative of mobility, globalization, and recovery through the lens of flight data.
 
-Text here...
+## Introduction (Setup)
+
+1. Present the dataset and explain why air travel is a meaningful lens for global change.
+
+2. One-sentence summary: “Air travel reflects the world’s resilience and vulnerability to crises.”
+
+## Rising Action (Patterns & Growth)
+
+1. Show steady growth in flights and passengers from 2002–2019.
+2. Highlight seasonal cycles (summer peaks, winter dips).
+3. Compare domestic vs. international growth rates.
+
+## Climax (Disruption)
+
+1. Visualize the dramatic collapse in 2020 due to COVID-19.
+2. Emphasize the scale of decline (e.g., April 2020: only ~1,464 flights vs. ~14,000 pre-pandemic).
+3. Contrast domestic vs. international recovery speeds.
+
+## Falling Action (Recovery & Rebound)
+
+1. Show gradual recovery from 2021–2023.
+2. Highlight differences in passenger vs. flight recovery (fewer flights but fuller planes).
+3. Note international lag compared to domestic.
+
+## Resolution (Future Outlook)
+
+1. Present 2024–2025 data showing stabilization and return to pre-pandemic levels.
+2. Pose questions about future resilience: climate change, geopolitical tensions, and new mobility technologies.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
+1. <img width="648" height="484" alt="Screenshot 2025-11-19 at 3 58 32 PM" src="https://github.com/user-attachments/assets/62976a7f-c016-4f58-aa51-87e23f744c8b" />
+
+Line Chart (Flights Over Time)
+
+- X-axis: Year/Month
+
+- Y-axis: Flights_Total
+
+- Highlight disruptions (2008 dip, 2020 collapse).
+
+
+2. <img width="652" height="544" alt="Screenshot 2025-11-19 at 3 59 00 PM" src="https://github.com/user-attachments/assets/471ca8c0-33e1-4eb0-93aa-fa2ef5d59d15" />
+
+- Stacked Area Chart (Domestic vs. International Passengers)
+
+- Show proportions shifting over time.
+
+- Emphasize international recovery lag.
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+Source
+The primary dataset for this project comes from the U.S. Bureau of Transportation Statistics (BTS).
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+For this project, I’ve cleaned and aggregated the raw BTS data into a structured CSV file (cleaned_flights_data.csv) that covers 2002–2025. The cleaned dataset includes:
+
+Flights_Domestic – monthly count of domestic flights
+
+Flights_International – monthly count of international flights
+
+Flights_Total – combined monthly flights
+
+Passengers_Domestic – monthly domestic passenger totals
+
+Passengers_International – monthly international passenger totals
+
+Passengers_Total – combined monthly passenger totals
+
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| Air Carrier Statistics (Form 41 Traffic) – T-100 Segment data | [URL]([url](https://www.transtats.bts.gov/Data_Elements.aspx?Qn6n=E)) | This dataset provides monthly records of domestic and international flights, along with passenger counts, spanning multiple decades. |
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
