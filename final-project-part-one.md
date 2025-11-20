@@ -9,7 +9,6 @@ The goal is to tell a story about how external shocks reshape air travel pattern
 ## Introduction (Setup)
 
 1. Present the dataset and explain why air travel is a meaningful lens for global change.
-
 2. One-sentence summary: “Air travel reflects the world’s resilience and vulnerability to crises.”
 
 ## Rising Action (Patterns & Growth)
@@ -84,12 +83,12 @@ Passengers_Total – combined monthly passenger totals
 - Build interactive dashboards that allow audiences to filter by year, flight type, and passenger counts.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+The project will be completed using:
+- Shorthand for narrative storytelling (scroll-based story arc).
+- Tableau for interactive visualizations (line charts, area charts, dashboards).
 
 ## References
-_List any references you used here._
+1. Data elements. (n.d.). [https://www.transtats.bts.gov/Data_Elements.aspx?Qn6n=E](https://www.transtats.bts.gov/Data_Elements.aspx?Qn6n=E)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Parts of the written content were refined with the help of AI language tools to improve clarity, tone, and readability.
