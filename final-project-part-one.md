@@ -2,37 +2,37 @@
 
 
 # Outline
-Air travel is one of the clearest indicators of global mobility, economic health, and resilience in the face of crises. This project explores U.S. domestic and international flight trends from 2002–2025, focusing on how passenger volumes and flight counts evolved across major events such as the post-9/11 recovery, the 2008 financial crisis, the COVID-19 pandemic, and the rebound in the 2020s.
+Air travel offers one of the most revealing windows into how people move, how economies grow, and how industries adapt to periods of disruption. This project analyzes U.S. air travel patterns from 2005–2025 using route-level data on passengers, carriers, and airports. By examining how airlines shift capacity across routes and hubs, the project uncovers how the aviation network evolves in response to long-term growth, competition between carriers, and major global events.
 
-The goal is to tell a story about how external shocks reshape air travel patterns and how recovery trajectories differ between domestic and international markets. By visualizing long-term trends, seasonal cycles, and sudden disruptions, the project will highlight both the fragility and resilience of the aviation industry. Ultimately, the project aims to help audiences understand the broader narrative of mobility, globalization, and recovery through the lens of flight data.
+The objective is to tell a story about how airlines reshape their networks during times of stability and in the face of shocks-such as the 2008 recession and the COVID-19 pandemic-and how different carriers recover at different speeds. Through visualizing 20 years of trends, seasonality, declines, and rebounds, this project highlights both the vulnerabilities and remarkable resilience of the U.S. aviation system.
 
 ## Introduction (Setup)
 
-1. Present the dataset and explain why air travel is a meaningful lens for global change.
-2. One-sentence summary: “Air travel reflects the world’s resilience and vulnerability to crises.”
+1. This dataset captures monthly passenger volumes across U.S. routes, including carrier names, origin–destination airport pairs, and city-level information. Air travel data is a meaningful lens for global change because flight patterns quickly reflect economic cycles, evolving consumer behavior, and the impact of global crises.
+2. One-sentence summary: “Air travel reflects how airlines and travelers adapt-revealing both resilience and vulnerability in times of crisis.”
 
 ## Rising Action (Patterns & Growth)
 
-1. Show steady growth in flights and passengers from 2002–2019.
-2. Highlight seasonal cycles (summer peaks, winter dips).
-3. Compare domestic vs. international growth rates.
+1. From 2005–2019, U.S. airlines show consistent growth across most major routes, alongside predictable seasonal cycles driven by summer travel peaks and winter slowdowns.
+2. These long-term patterns reveal steady demand expansion and highlight how major carriers such as Southwest, United, American, and Delta shape the broader aviation ecosystem.
+3. Domestic travel grows more consistently, while international travel shows sharper fluctuations due to global economic conditions and geopolitical events.
 
 ## Climax (Disruption)
 
-1. Visualize the dramatic collapse in 2020 due to COVID-19.
-2. Emphasize the scale of decline (e.g., April 2020: only ~1,464 flights vs. ~14,000 pre-pandemic).
-3. Contrast domestic vs. international recovery speeds.
+1. The COVID-19 pandemic in 2020 triggered the most dramatic collapse in U.S. aviation history, with monthly passenger volumes falling to levels never seen in modern air travel.
+2. Routes that previously carried tens of thousands of passengers per month dropped to a fraction of their normal volume, and entire categories of travel-especially international and business routes-were disproportionately affected.
+3. Differences in recovery speeds become visible early on: airlines with heavy leisure or domestic focus stabilize sooner, while long-haul and international networks lag significantly.
 
 ## Falling Action (Recovery & Rebound)
 
-1. Show gradual recovery from 2021–2023.
-2. Highlight differences in passenger vs. flight recovery (fewer flights but fuller planes).
-3. Note international lag compared to domestic.
+1. Between 2021 and 2023, passenger volumes begin to rebound, though recovery paths differ across carriers and route types.
+2. While total passenger numbers climb steadily, the number of flights remains lower, indicating fuller planes and more efficient scheduling.
+3. International travel recovers more slowly compared to domestic routes, reflecting ongoing travel restrictions, uneven demand, and changing traveler behavior.
 
 ## Resolution (Future Outlook)
 
-1. Present 2024–2025 data showing stabilization and return to pre-pandemic levels.
-2. Pose questions about future resilience: climate change, geopolitical tensions, and new mobility technologies.
+1. By 2024–2025, air travel stabilizes and approaches or exceeds pre-pandemic levels on many domestic routes. Carriers reconfigure their networks, with some hubs growing in prominence while others decline.
+2. These patterns raise broader questions about the future of air travel: How will climate policies, fuel costs, or geopolitical uncertainty shape airline strategy? Will hybrid work permanently reduce business travel? What new mobility technologies might reshape demand?
 
 ## Initial sketches
 
@@ -58,17 +58,17 @@ Line Chart (Flights Over Time)
 # The data
 
 Source
-The primary dataset for this project comes from the U.S. Bureau of Transportation Statistics (BTS).
 
-For this project, I’ve cleaned and aggregated the raw BTS data into a structured CSV file (cleaned_flights_data.csv) that covers 2002–2025. The cleaned dataset includes:
+The dataset used in this project is compiled from monthly U.S. airline activity between 2005 and 2025, based on data originally sourced from the U.S. Bureau of Transportation Statistics (BTS). For the purposes of this project, the raw data was cleaned, merged, and standardized into a structured CSV file containing route-level passenger counts across major U.S. airlines.
 
-Flights_Domestic – monthly count of domestic flights
-Flights_International – monthly count of international flights
-Flights_Total – combined monthly flights
-Passengers_Domestic – monthly domestic passenger totals
-Passengers_International – monthly international passenger totals
-Passengers_Total – combined monthly passenger totals
+Each row in the dataset represents a single carrier operating a specific route in a specific month, allowing analysis at the carrier, route, airport, and city level.
 
+The cleaned dataset includes the following variables:
+PASSENGERS – number of passengers transported on a given route in a given month
+UNIQUE_CARRIER_NAME – full airline name (e.g., United Air Lines Inc., Southwest Airlines Co.)
+ORIGIN, DEST – airport codes representing the origin and destination airports
+ORIGIN_CITY, DEST_CITY – readable city names mapped from airport codes
+MONTH – month and year of service (formatted as MM-YYYY), covering 2005–2025
 
 | Name | URL | Description |
 |------|-----|-------------|
