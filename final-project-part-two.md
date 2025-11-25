@@ -63,29 +63,28 @@ Participant 3: Plane spotter and hobby aviation photographer (30s–0s)
 Participants were chosen for their interest in aviation, familiarity with airports and carriers, and curiosity about how air travel evolves.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+- Test whether aviation geeks immediately grasp the storyline
+- Check if the visualizations match the level of detail enthusiasts expect
+- Identify what additional breakdowns (routes, hubs, carriers) they want
+- Evaluate clarity of annotations, colors, and order of visuals
+- Understand which insights feel “exciting” or “new” to this group
+
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Assess clarity     | “What is the story you think these visuals are telling?”                 |
+| Test narrative flow     | “Does the order of visuals feel logical and engaging?”                 |
+| Identify Confusion     | “Was anything unclear or missing context?”                 |
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions               | Interview 1 (briefly describe) | Interview 2 |
+|-------------------------|--------------------------------|-------------|
+| What is the story you think these visuals are telling? | how traffic shifted across carriers after COVID            | Network collapse and rebuild            |
+| Does the order of visuals feel logical and engaging?                        | The carrier recovery comparison, cool to see who bounced back | The time-series line chart shows the shock perfectly            |
+| Was anything unclear or missing context? | Treemap isn’t intuitive, I couldn't compare carriers easily | It’s hard to compare values because the chart feels visually crowded            |
 
 
 # Identified changes for Part III
@@ -102,11 +101,6 @@ Text here!
 | ...add more rows as necessary            |                                                                                 |
 
 > ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
 
 Text here!
 
