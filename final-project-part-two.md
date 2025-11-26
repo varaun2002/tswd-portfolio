@@ -102,7 +102,7 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
+[Short Hand!](https://preview.shorthand.com/0Ibvn8fBx9EuIGtk/responsive/desktop)
 
 ## References
 _List any references you used here._
