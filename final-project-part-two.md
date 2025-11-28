@@ -87,21 +87,6 @@ Participants were chosen for their interest in aviation, familiarity with airpor
 | Was anything unclear or missing context? | Treemap isn’t intuitive, I couldn't compare carriers easily | It’s hard to compare values because the chart feels visually crowded            |
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
-
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
 [Short Hand!](https://preview.shorthand.com/0Ibvn8fBx9EuIGtk/responsive/desktop)
 
 ## References
