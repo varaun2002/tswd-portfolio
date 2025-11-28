@@ -90,8 +90,8 @@ Participants were chosen for their interest in aviation, familiarity with airpor
 [Short Hand!](https://preview.shorthand.com/0Ibvn8fBx9EuIGtk/responsive/desktop)
 
 ## References
-_List any references you used here._
+([Data elements. (n.d.).](https://www.transtats.bts.gov/Data_Elements.aspx?Qn6n=E)) 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Parts of the written content were refined with the help of AI language tools to improve clarity, tone, and readability.
 
